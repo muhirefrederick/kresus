@@ -40,3 +40,4 @@ If you like the work we're doing, consider making a donation!
 ## Thanks
 
 We use [![BrowserStack](./support/Browserstack-logo.png)](https://www.browserstack.com) to test Kresus on different browsers and mobile devices.
+thank you so much kresus for this amazing product
